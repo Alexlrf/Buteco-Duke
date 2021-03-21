@@ -15,7 +15,6 @@ public class Constants {
     public static final String DATABASE_NAME = "DB_BOTECO_DUKE";
     public static final String URL = "jdbc:mysql://"+SERVER_NAME+"/"+DATABASE_NAME;
     public static final String USER = "root";
-    public static final String PASS = "";
-    
+    public static final String PASS = "";    
            
 }
